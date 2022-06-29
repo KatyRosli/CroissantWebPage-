@@ -3,7 +3,7 @@
 - This website is about promoting croissant 🥐.
 - Readers get to click different pages (Home, Photo & About) to read and know more about croissant.
 
-![screenshot](./AvocadoWebsite.png)
+![screenshot](./CroissantPage.png)
 
 # Built with 🛠️:
 - HTML
